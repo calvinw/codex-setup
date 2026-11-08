@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img" aria-labelledby="title desc">
+  <title id="title">Penguin on a bike</title>
+  <desc id="desc">A cheerful penguin wearing a coral scarf pedals a red bicycle under a sunny sky.</desc>
+  <rect width="800" height="640" rx="40" fill="#f1f9fb"/>
+  <circle cx="657" cy="113" r="43" fill="#ffdc78"/>
+  <g fill="#fff">
+    <path d="M97 133a24 24 0 0 1 42-16 33 33 0 0 1 62 12 19 19 0 1 1 4 38H99a17 17 0 0 1-2-34Z"/>
+    <path d="M470 84a17 17 0 0 1 30-10 23 23 0 0 1 44 9 14 14 0 1 1 2 28h-75a14 14 0 0 1-1-27Z"/>
+  </g>
+  <ellipse cx="405" cy="539" rx="281" ry="23" fill="#d5e9ed"/>
+  <path d="M100 540h602" stroke="#b9d7df" stroke-width="4" stroke-linecap="round"/>
+  <!-- Wheels and spokes -->
+  <g stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g stroke="#b7cdd5" stroke-width="3">
+      <path d="m224 438 0-91m0 91 64-64m-64 64h91m-91 0 64 64m-64-64v91m0-91-64 64m64-64h-91m91 0-64-64"/>
+      <path d="m585 438 0-91m0 91 64-64m-64 64h91m-91 0 64 64m-64-64v91m0-91-64 64m64-64h-91m91 0-64-64"/>
+    </g>
+    <g stroke="#233e50" stroke-width="13">
+      <circle cx="224" cy="438" r="94"/>
+      <circle cx="585" cy="438" r="94"/>
+    </g>
+    <g stroke="#fff" stroke-width="3" opacity=".8">
+      <circle cx="224" cy="438" r="83"/>
+      <circle cx="585" cy="438" r="83"/>
+    </g>
+    <!-- Bicycle frame -->
+    <path d="m224 438 101-143 70 143H224m101-143h191L395 438m121-143 69 143" stroke="#df3d43" stroke-width="12"/>
+    <path d="m325 295-15-34m206 34-21-61 40-16" stroke="#233e50" stroke-width="9"/>
+    <path d="m529 219 23-5q18-4 22 12" stroke="#ed7467" stroke-width="12"/>
+    <path d="M280 260h62" stroke="#233e50" stroke-width="15"/>
+    <circle cx="395" cy="438" r="21" stroke="#233e50" stroke-width="7" fill="#f1f9fb"/>
+    <path d="m395 438 28 28h22m-50-28-28-28h-19" stroke="#233e50" stroke-width="7"/>
+  </g>
+  <!-- Far foot -->
+  <path d="M334 365q-14 7-18 26l-4 17q17 10 47 1l20-8q5-8-5-13l-17-4 1-17Z" fill="#f5b849" stroke="#233e50" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Penguin body -->
+  <path d="M309 274q-37-44-21-102 12-50 59-61 51-12 81 29 20 28 17 64-2 26 15 59 19 39 2 70-21 37-79 36-58-1-80-36-17-26 6-59Z" fill="#233e50"/>
+  <path d="M320 222q-18-24-11-50 5-23 24-23 16 0 27 18 11-19 28-16 26 4 31 36 2 20-10 37 34 29 34 64 0 52-59 55-59 2-65-39-6-35 1-82Z" fill="#fffdf5"/>
+  <!-- Face -->
+  <g fill="#233e50">
+    <ellipse cx="338" cy="187" rx="5" ry="8"/>
+    <ellipse cx="390" cy="187" rx="5" ry="8"/>
+  </g>
+  <path d="m353 205 29-1-15 19q-3 3-6-1Z" fill="#f5b849"/>
+  <ellipse cx="324" cy="210" rx="11" ry="6" fill="#f2b6aa"/>
+  <ellipse cx="405" cy="210" rx="11" ry="6" fill="#f2b6aa"/>
+  <!-- Windblown scarf -->
+  <path d="M317 235q-40-8-65-38l-10 21-22 7q37 36 91 35Z" fill="#ed7467"/>
+  <path d="M311 229q52 24 111 0l7 23q-56 28-119 1Z" fill="#f18576"/>
+  <path d="m250 207-9 12m22-1-10 15" stroke="#ffd0bc" stroke-width="4"/>
+  <!-- Flipper reaching for the handlebars -->
+  <path d="M408 260q24-11 49-18l70-21q16-3 15 8-3 16-32 28l-69 32q-24 8-33-4" fill="#233e50"/>
+  <path d="M423 269q33-12 68-24" fill="none" stroke="#38596a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Near leg and foot on the pedal -->
+  <path d="M407 343q26 20 13 50l-13 35" fill="none" stroke="#233e50" stroke-width="22" stroke-linecap="round"/>
+  <path d="M408 420q10 5 15 18l27 11q14 7 5 15-27 10-57-5l-9-6 5-29Z" fill="#f5b849" stroke="#233e50" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Little motion marks -->
+  <g stroke="#86bbc8" stroke-width="5" stroke-linecap="round">
+    <path d="M112 310h49M91 330h44M118 350h16"/>
+  </g>
+</svg>
